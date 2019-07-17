@@ -8,3 +8,5 @@ It has slow load time due to numerous HD Pictures
 <ul>
 	<li>Append a Top Navigation Bar, to replace the side menu</li>
 </ul>
+
+Check it out <a href="https://simonielmusyoki.github.io/BookstoreFrontend/">Bookstore Frontend</a>
